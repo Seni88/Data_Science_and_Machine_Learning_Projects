@@ -1,7 +1,7 @@
 # Data Science and Machine Learning Project Portfolio
 This repository contains a portfolio of Data Science and Machine Learning projects that were completed by me for academic and self learning purposes. 
 
-The datasets and databases used in these projects are for demostration purposes.
+The datasets used in these projects are for demostration purposes.
 
 ## Instructions
 - Download Python and Anaconda to be able to access Jupyter Notebooks to write the necassary codes.
