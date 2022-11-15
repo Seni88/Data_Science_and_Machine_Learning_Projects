@@ -48,7 +48,7 @@ The datasets and databases used in these projects are for demostration purposes.
 - Solutions
   - Built a Logistic Regression Model that had an accuracy score of 98% and a F1 Score of 0.66 which measures the models performance.
 
-### [South African Language Identification(https://github.com/Seni88/Data_Science_and_Machine_Learning_Projects/tree/main/South%20African%20Language%20Identification):
+### [South African Language Identification](https://github.com/Seni88/Data_Science_and_Machine_Learning_Projects/tree/main/South%20African%20Language%20Identification):
 
 - Objective
   - Built a Natural Language Processing (NLP) Model that performed Sentiment Analysis where the model had to identify which South African Language the data was in and classify the data into the correct group.
