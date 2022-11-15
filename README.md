@@ -63,7 +63,7 @@ The datasets and databases used in these projects are for demostration purposes.
 - Solutions
   - Built a Multinomial Naive Bayes Model that had an accuracy score of 99% and a F1 Score of 0.99 which measures the models performance.
 
-### [Movie Recommendation System]():
+### [Movie Recommendation System](https://github.com/Seni88/Data_Science_and_Machine_Learning_Projects/tree/main/Movie%20Recommendation%20App):
 
 - Objective
   - Built a Recommender System, centered on collaborative filtering, that accurately predicts how a user will rate a movie based on their historical preferences.
